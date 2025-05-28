@@ -75,3 +75,13 @@ MCP 是一个开放协议，它为应用程序向 LLM 提供上下文的方式�
 [什么是MCP｜工作原理｜如何使用MCP｜图解MCP - 知乎](https://zhuanlan.zhihu.com/p/32975857666)
 
 [MCP详解及手把手实战 | 华为开发者联盟](https://developer.huawei.com/consumer/cn/blog/topic/03180540268583022)
+
+[punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
+
+[百炼控制台](https://bailian.console.aliyun.com/?tab=mcp#/mcp-market)
+
+[jlowin/fastmcp: 🚀 The fast, Pythonic way to build MCP servers and clients](https://github.com/jlowin/fastmcp)
+
+不需要用户方格式严格对齐
+
+大模型会自己对齐，还会给样例
