@@ -12,9 +12,9 @@ prompt_template = ChatPromptTemplate.from_messages(
     ]
 )
 model = ChatOpenAI(
-    model= MODEL,
-    api_key = API_KEY,
-    base_url = BASE_URL,
+    base_url="https://openrouter.ai/api/v1",
+    api_key='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',
+    model="thudm/glm-4-32b:free",
 )
 
 chain = prompt_template | model | StrOutputParser()
