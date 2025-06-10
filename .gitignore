@@ -1,3 +1,4 @@
 # Ignore the large wiki text files
+projects/.env
 TFdemo/data
 MCP技术入门介绍/从零到一MCP服务器开发实战.pdf
